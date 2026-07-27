@@ -1,0 +1,14 @@
+C:\Users\Gage\source\repos\CS120-20 Week9_TextStarter_LoopsArrays\obj\Debug\CS120-20 Week9_TextStarter_LoopsArrays.vbproj.AssemblyReference.cache
+C:\Users\Gage\source\repos\CS120-20 Week9_TextStarter_LoopsArrays\obj\Debug\CS120_20_Week9_TextStarter_LoopsArrays.Resources.resources
+C:\Users\Gage\source\repos\CS120-20 Week9_TextStarter_LoopsArrays\obj\Debug\CS120-20 Week9_TextStarter_LoopsArrays.vbproj.GenerateResource.cache
+C:\Users\Gage\source\repos\CS120-20 Week9_TextStarter_LoopsArrays\obj\Debug\CS120-20 Week9_TextStarter_LoopsArrays.vbproj.CoreCompileInputs.cache
+C:\Users\Gage\source\repos\CS120-20 Week9_TextStarter_LoopsArrays\bin\Debug\CS120-20 Week9_TextStarter_LoopsArrays.exe.config
+C:\Users\Gage\source\repos\CS120-20 Week9_TextStarter_LoopsArrays\bin\Debug\CS120-20 Week9_TextStarter_LoopsArrays.exe
+C:\Users\Gage\source\repos\CS120-20 Week9_TextStarter_LoopsArrays\bin\Debug\CS120-20 Week9_TextStarter_LoopsArrays.pdb
+C:\Users\Gage\source\repos\CS120-20 Week9_TextStarter_LoopsArrays\bin\Debug\CS120-20 Week9_TextStarter_LoopsArrays.xml
+C:\Users\Gage\source\repos\CS120-20 Week9_TextStarter_LoopsArrays\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gage\source\repos\CS120-20 Week9_TextStarter_LoopsArrays\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gage\source\repos\CS120-20 Week9_TextStarter_LoopsArrays\obj\Debug\CS120-20.C300E730.Up2Date
+C:\Users\Gage\source\repos\CS120-20 Week9_TextStarter_LoopsArrays\obj\Debug\CS120-20 Week9_TextStarter_LoopsArrays.exe
+C:\Users\Gage\source\repos\CS120-20 Week9_TextStarter_LoopsArrays\obj\Debug\CS120-20 Week9_TextStarter_LoopsArrays.xml
+C:\Users\Gage\source\repos\CS120-20 Week9_TextStarter_LoopsArrays\obj\Debug\CS120-20 Week9_TextStarter_LoopsArrays.pdb
